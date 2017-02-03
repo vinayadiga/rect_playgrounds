@@ -6,7 +6,7 @@ using namespace std;
 #include <vector>
 #include <utility>
 using namespace std;
-
+//sides of the rectangle
 enum sides{
 	left = 1,
 	right,
